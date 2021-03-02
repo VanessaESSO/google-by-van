@@ -19,7 +19,7 @@ body {
 }
 
 .navbar div {
-    padding-right: 15px;
+    margin-right: 15px;
 }
 
 a {
@@ -105,7 +105,7 @@ a {
 .input-img2 {
     position:absolute;
     top: 50%;
-    margin-right:-546px;
+    margin-right:-566px;
     cursor: pointer;
     transform: translate(-50%, -50%);
     width:24px;
